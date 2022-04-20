@@ -1,29 +1,19 @@
 # underline-animated
 
-This template should help get you started developing with Vue 3 in Vite.
+[![build status](https://github.com/connectshark/underline-animated/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/connectshark/underline-animated/actions/workflows/deploy.yml)
+[![GitHub last commit](https://img.shields.io/github/last-commit/connectshark/underline-animated.svg?style=flat)](https://github.com/connectshark/underline-animated)
+![GitHub stars](https://img.shields.io/github/stars/connectshark/underline-animated.svg?style=social&label=Stars&style=plastic)
 
-## Recommended IDE Setup
+## 專案瀏覽位置
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
+[專案預覽](https://connectshark.github.io/underline-animated/#/)
 
-## Customize configuration
+## 專案使用技術
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+![https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![https://img.shields.io/badge/tailwindcss-35495E?style=for-the-badge&logo=tailwindcss&logoColor=38BCF8](https://img.shields.io/badge/tailwindcss-35495E?style=for-the-badge&logo=tailwindcss&logoColor=38BCF8)
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+## 專案靈感
+- [Kevin Powell](https://www.youtube.com/shorts/_1vEGYWaaQY)的影片
+- tailwindcss
