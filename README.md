@@ -1,19 +1,18 @@
 # underline-animated
-
 [![build status](https://github.com/connectshark/underline-animated/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/connectshark/underline-animated/actions/workflows/deploy.yml)
 [![GitHub last commit](https://img.shields.io/github/last-commit/connectshark/underline-animated.svg?style=flat)](https://github.com/connectshark/underline-animated)
 ![GitHub stars](https://img.shields.io/github/stars/connectshark/underline-animated.svg?style=social&label=Stars&style=plastic)
 
-## 專案瀏覽位置
+[中文](/readme/tw.md)
 
-[專案預覽](https://connectshark.github.io/underline-animated/#/)
+![](/readme/cover.png)
+This project uses a background color to achieve the gradient underline effect, which adds a gradient line composed of multiple colors below the text.
 
-## 專案使用技術
+The implementation method uses the CSS "background-image" property to set an image containing a gradient color as the background of the element. The "background-size" and "background-position" properties are used to control the size and position of the image, so that it overlaps with the text underline.
 
-![https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![https://img.shields.io/badge/tailwindcss-35495E?style=for-the-badge&logo=tailwindcss&logoColor=38BCF8](https://img.shields.io/badge/tailwindcss-35495E?style=for-the-badge&logo=tailwindcss&logoColor=38BCF8)
+In addition, the "transition" property of CSS is also used to create a moving effect when the mouse hovers over the background image, thus enhancing the visual effect of the underline.
 
-## 專案靈感
-- [Kevin Powell](https://www.youtube.com/shorts/_1vEGYWaaQY)的影片
-- tailwindcss
+This project is inspired by Kevin Powell's YouTube video.
+
+- [Live Demo](https://connectshark.github.io/underline-animated/#/)
+- [Kevin Powell](https://www.youtube.com/shorts/_1vEGYWaaQY)
